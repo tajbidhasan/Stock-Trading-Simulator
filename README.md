@@ -1,1 +1,1 @@
-# stock-tading-app-javafx
+# stock-trading-app-javafx
