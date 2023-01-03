@@ -1,1 +1,1 @@
-# stock-trading-app-javafx
+# demo stock-trading-app-javafx
