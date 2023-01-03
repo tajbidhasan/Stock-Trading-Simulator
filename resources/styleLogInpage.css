@@ -1,0 +1,29 @@
+.root{
+	//-fx-background-color : #050001;
+	-fx-font-size : 24;
+	-fx-font-family : arial;
+	-fx-font-weight : bold;
+}
+
+.button{
+	-fx-background-color : #c90af0;
+	-fx-background-radius : 5;
+	-fx-text-fill : #181518;
+}
+
+.button:hover{
+	-fx-background-color : #f00af0;
+	-fx-text-fill : #181518;
+}
+
+.label{
+	-fx-text-fill : #c90af0;
+}
+
+
+
+.label-2{
+	-fx-text-fill : #c90af0;
+	-fx-font-size : 36;
+}
+
