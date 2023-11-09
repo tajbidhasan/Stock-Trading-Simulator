@@ -23,4 +23,4 @@ Welcome to the Stock Trading Simulator application repository. This application 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/stock-trading-simulator.git
+   git clone https://github.com/your-username/Stock-Trading-Simulator.git
